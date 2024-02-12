@@ -62,7 +62,7 @@ public:
  */
 int main() {
     // Create a bank account for John with initial balance $1000
-    BankAccount johnAccount("John Doe", 1000.0);
+    BankAccount johnAccount("John Cena", 1000.0);
 
     // Deposit $500 into John's accounts
     johnAccount.deposit(500.0);
